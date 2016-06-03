@@ -9,7 +9,10 @@
 - [Monitoring on a Budget](#monitoring-on-a-budget)
 - [Personal Data Mining (NOT) just for fun](#personal-data-mining)
 - [Creating accessible components](#accessible-components)
+- [JS Takes the desktop: Electron, React, And Native win/mac/linux experiences at scale](#electron)
 
+- [Surviving JavaScript](#surviving-javascript)
+- [Creating accessible components](#accessible-components)
 
 
 
@@ -105,6 +108,39 @@
 
 
 ### <a name="accessible-components"></a>Creating accessible components by [Cat Hawker](https://twitter.com/@auberdjinn)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+
+-----
+
+
+
+
+
+### <a name="electron"></a>JS Takes the desktop: Electron, React, And Native win/mac/linux experiences at scale by [Evan Morikawa](https://twitter.com/@E0M)
+
+##### Slides
+- []()
+
+##### Recommended reads
+- []()
+
+
+
+-----
+
+
+
+
+
+### <a name="surviving-javascript"></a>Surviving JavaScript by [Robin Mehner](https://twitter.com/@RMEHNER)
 
 ##### Slides
 - []()
